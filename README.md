@@ -24,8 +24,11 @@
 
 # 📈 My stats:
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedcruz&show_icons=true&theme=radical)](https://github.com/jorgedcruz/github-readme-stats) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jorgedcruz&theme=radical&hide_border=false)<br/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedcruz&layout=compact)](https://github.com/jorgedcruz/github-readme-stats)
+
+![:JorgeDCruz](https://count.getloli.com/get/@:JorgeDCruz)
 
 <!--
 **JorgeDCruz/JorgeDCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
