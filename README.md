@@ -1,4 +1,5 @@
-# Hello there 👋
+# Hello there, I'm Jorge Cruz 👋
+
 # About me:
 -  🖥 Future software engineer at: **ITESM campus GDA** 
  
@@ -20,6 +21,11 @@
 - 🌱 I’m currently learning web development with **T3 Stack**
 # 📱  My socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jorgedanielcruzcase/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-daniel-cruz-82099621a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Palpatino66) 
+
+# 📈 My stats:
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedcruz&show_icons=true&theme=radical)](https://github.com/jorgedcruz/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedcruz&layout=compact)](https://github.com/jorgedcruz/github-readme-stats)
 
 <!--
 **JorgeDCruz/JorgeDCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
