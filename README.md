@@ -26,8 +26,11 @@
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedcruz&show_icons=true&theme=radical)](https://github.com/jorgedcruz/github-readme-stats) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorgedcruz&theme=radical&hide_border=false)<br/> 
 
+## Lanuages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedcruz&layout=compact)](https://github.com/jorgedcruz/github-readme-stats)
 
+## Profile views:
 ![:JorgeDCruz](https://count.getloli.com/get/@:JorgeDCruz)
 
 <!--
