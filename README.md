@@ -1,7 +1,8 @@
 # Hello there, I'm Jorge Cruz 👋
 
 # About me:
--  🖥 Future software engineer at: **ITESM campus GDA** 
+-  🖥 Future software engineer at: **ITESM campus GDA**
+-  Current Technical Intern @DXC Technology
  
 -  📟 I currently fluent in the following **coding lenguages**:
     - C++ 
